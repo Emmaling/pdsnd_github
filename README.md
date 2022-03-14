@@ -7,7 +7,7 @@ This project was created on 2022/03/14
 Emma final quiz on Git
 
 ### Description
-Describe what your project is about and what it does
+This project is used to showcase my skill with Git
 
 ### Files used
 Include the files used
