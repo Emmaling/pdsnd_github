@@ -12,5 +12,8 @@ This project is used to showcase my skill with Git
 ### Files used
 Include an WIP Python code and related datasets
 
+###Estimated completion Date
+No later than March 25th
+
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
