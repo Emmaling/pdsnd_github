@@ -2,6 +2,7 @@ import time
 import pandas as pd
 import numpy as np
 
+#This is a filter function
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
@@ -45,7 +46,7 @@ def get_filters():
     print('-'*40)
     return city, month, day
 
-
+#This will be the data input funtion
 def load_data(city, month, day):
     """
     Loads data for the specified city and filters by month and day if applicable.
@@ -61,7 +62,7 @@ def load_data(city, month, day):
 
     return df
 
-
+#This will be a time related function
 def time_stats(df):
     """Displays statistics on the most frequent times of travel."""
 
