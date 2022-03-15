@@ -10,7 +10,7 @@ Emma final quiz on Git
 This project is used to showcase my skill with Git
 
 ### Files used
-Include the files used
+Include an WIP Python code and related datasets
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
